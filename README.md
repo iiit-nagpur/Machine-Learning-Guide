@@ -27,7 +27,7 @@ So finally we can summarize the  above using the following Venn diagram.
 </div>
 
 ### Credits
-*Mayur Selukar* @mrselukar  
+*Mayur Selukar* [@mrselukar](https://github.com/mrselukar)  
 Machine Learning Engineer Student at Udacity.
 ### The content of this post were inspired by
 1. Udacity Machine Learning Engineer Nanodegree
