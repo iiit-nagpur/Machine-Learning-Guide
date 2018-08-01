@@ -21,8 +21,11 @@ ML is broadly classified into tow types
 *Deep learning is a type of Supervised Machine learning algorithm and is probably the most popular form of Machine Learning right now*  
 ### Data Science:
 > Data science is an inter-disciplinary field that requires skills and concepts used in disciplines such as statistics, machine learning, visualization, etc. One could say a data scientist is just a fancy term for the business analyst.
-So finally we can summarize the  above using the following Venn diagram.    
-![TL;DR_intro](/images/tldr_intro.png)
+So finally we can summarize the  above using the following Venn diagram.  
+<div style="align:center">
+  <img src ="/images/tl;dr_intro.png"/>
+</div>
+
 ### Credits
 *Mayur Selukar* @mrselukar  
 Machine Learning Engineer Student at Udacity.
