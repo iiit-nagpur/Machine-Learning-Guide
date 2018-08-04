@@ -3,14 +3,14 @@
 A hands on guide to machine learning to get you upto speed on the basic concepts and ideas.
 ## Contents
 1. [Welcome](#welcome)
-2. [What is AI, ML and Data Science? How are the related?](#AI_ML_DS)  
+2. [What is AI, ML and Data Science? How are they related?](#AI_ML_DS)  
 ## Welcome  
 > Welcome and congratulations on your decision to learn ML.
 But *What is Machine Learning*?
 In recent times machine learning is one of the buzz world and is often used interchangeably with Artificial intelligence and Data Science, so lets establish the base line.
 <a name="AI_ML_DS"> </a>
 ## What is AI, ML and Data Science? How are they related?
-Lets start be defining what each term means.  
+Lets start by defining what each term means.  
 ### Artificial Intelligence:  
 > AI is a very broad term and is the  super set of ML. In simple terms AI is a computer program that tries to mimic, develop and demonstrate  human behavior. It can be as simple as a software playing chess or an autonomous car.  
 ### Machine Learning:
